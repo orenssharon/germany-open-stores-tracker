@@ -1,0 +1,1 @@
+# germany-open-stores-tracker
