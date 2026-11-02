@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "last_updated": "2026-11-02 20:29 UTC",
+    "total_entries": 7,
+    "is_sunday": false
+  },
+  "data": [
+    {
+      "city": "Berlin",
+      "state": "Berlin",
+      "category": "Supermarkt",
+      "store_name": "REWE City",
+      "address": "Hauptbahnhof (Europaplatz 1)",
+      "status": "Offen (08:00 - 22:00)",
+      "note": "Geöffnet an Sonn- und Feiertagen"
+    },
+    {
+      "city": "Berlin",
+      "state": "Berlin",
+      "category": "Drogerie",
+      "store_name": "Rossmann",
+      "address": "Bahnhof Ostbahnhof",
+      "status": "Offen (08:00 - 21:00)",
+      "note": "Geöffnet an Sonn- und Feiertagen"
+    },
+    {
+      "city": "München",
+      "state": "Bayern",
+      "category": "Supermarkt",
+      "store_name": "Edeka",
+      "address": "Hauptbahnhof (Zwischengeschoss)",
+      "status": "Offen (08:00 - 23:00)",
+      "note": "Sonn- und Feiertags geöffnet"
+    },
+    {
+      "city": "München",
+      "state": "Bayern",
+      "category": "Supermarkt",
+      "store_name": "Edeka",
+      "address": "Flughafen München (MUC) Zentralallee",
+      "status": "Offen (05:30 - 22:00)",
+      "note": "Täglich geöffnet"
+    },
+    {
+      "city": "Hamburg",
+      "state": "Hamburg",
+      "category": "Supermarkt",
+      "store_name": "Edeka Tamme",
+      "address": "Hauptbahnhof Wandelhalle",
+      "status": "Offen (07:00 - 23:00)",
+      "note": "Sonn- und Feiertags geöffnet"
+    },
+    {
+      "city": "Frankfurt am Main",
+      "state": "Hessen",
+      "category": "Supermarkt",
+      "store_name": "REWE City",
+      "address": "Fernbahnhof Flughafen",
+      "status": "Offen (06:00 - 22:00)",
+      "note": "Täglich geöffnet"
+    },
+    {
+      "city": "Köln",
+      "state": "Nordrhein-Westfalen",
+      "category": "Supermarkt",
+      "store_name": "REWE To Go",
+      "address": "Hauptbahnhof Trankgasse 11",
+      "status": "Offen (00:00 - 24:00)",
+      "note": "24/7 Geöffnet"
+    }
+  ]
+}
