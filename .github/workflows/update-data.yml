@@ -2,8 +2,12 @@ name: Update Open Stores Data
 
 on:
   schedule:
-    - cron: '0 4 * * *' # הרצה יומית בשעה 04:00 AM UTC
-  workflow_dispatch: # מאפשר הרצה ידנית מתוך GitHub במקרה הצורך
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+# הרשאות מפורשות לביצוע push לקוד
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,10 +15,10 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.x'
 
