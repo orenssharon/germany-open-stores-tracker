@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-03 11:32 UTC",
-    "total_entries": 50,
+    "last_updated": "2026-11-03 12:59 UTC",
+    "total_entries": 42,
     "is_sunday": false
   },
   "data": [
@@ -13,6 +13,10 @@
       "address": "Hauptbahnhof (Europaplatz 1)",
       "transit": "S-Bahn / U5 Hauptbahnhof",
       "status": "Offen (08:00 - 22:00)",
+      "holiday_status": "Geöffnet an allen Feiertagen",
+      "best_time": "Vor 10:00 & nach 20:00",
+      "parking": "Parkhaus Hauptbahnhof",
+      "assortment": "Vollsortiment",
       "note": "Geöffnet an Sonn- und Feiertagen"
     },
     {
@@ -23,6 +27,10 @@
       "address": "Bahnhof Ostbahnhof",
       "transit": "S-Bahn / Regio Ostbahnhof",
       "status": "Offen (08:00 - 21:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkplatz Ostbahnhof",
+      "assortment": "Drogerie & Babybedarf",
       "note": "Geöffnet an Sonn- und Feiertagen"
     },
     {
@@ -33,6 +41,10 @@
       "address": "Bahnhof Friedrichstraße",
       "transit": "S-Bahn / U6 Friedrichstraße",
       "status": "Offen (08:00 - 22:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Nach 19:00 Uhr",
+      "parking": "Nur ÖPNV",
+      "assortment": "Vollsortiment",
       "note": "Geöffnet an Sonn- und Feiertagen"
     },
     {
@@ -43,6 +55,10 @@
       "address": "Bahnhof Ostkreuz",
       "transit": "S-Bahn Ostkreuz",
       "status": "Offen (08:00 - 21:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 12:00 Uhr",
+      "parking": "Umgebung (begrenzt)",
+      "assortment": "Bio-Lebensmittel",
       "note": "Sonn- und Feiertags geöffnet"
     },
     {
@@ -53,6 +69,10 @@
       "address": "Hauptbahnhof 1. OG",
       "transit": "Hauptbahnhof",
       "status": "Offen (00:00 - 24:00)",
+      "holiday_status": "24/7 Notdienst an Feiertagen",
+      "best_time": "Jederzeit",
+      "parking": "Parkhaus Hauptbahnhof",
+      "assortment": "Medikamente & Notfall",
       "note": "24/7 Notdienst"
     },
     {
@@ -63,6 +83,10 @@
       "address": "Heerstraße 92",
       "transit": "Bus M49 / X34",
       "status": "Offen (00:00 - 24:00)",
+      "holiday_status": "24/7 Geöffnet",
+      "best_time": "Jederzeit",
+      "parking": "Kostenlos an der Tankstelle",
+      "assortment": "Snacks & Grundnahrung",
       "note": "24/7 Shop & Snack"
     },
     {
@@ -73,6 +97,10 @@
       "address": "Hauptbahnhof (Zwischengeschoss)",
       "transit": "S-Bahn / U-Bahn Hauptbahnhof",
       "status": "Offen (08:00 - 23:00)",
+      "holiday_status": "Geöffnet an allen Feiertagen",
+      "best_time": "Vor 10:00 & nach 20:00",
+      "parking": "Tiefgarage Hauptbahnhof",
+      "assortment": "Vollsortiment",
       "note": "Sonn- und Feiertags geöffnet"
     },
     {
@@ -83,6 +111,10 @@
       "address": "Flughafen München (MUC) Zentralallee",
       "transit": "S1 / S8 Flughafen München",
       "status": "Offen (05:30 - 22:00)",
+      "holiday_status": "Täglich geöffnet",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Flughafen Parkhaus (P20)",
+      "assortment": "Vollsortiment",
       "note": "Täglich geöffnet"
     },
     {
@@ -93,17 +125,11 @@
       "address": "Ostbahnhof Platz",
       "transit": "S-Bahn / U4 Ostbahnhof",
       "status": "Offen (07:00 - 22:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkgarage Ostbahnhof",
+      "assortment": "Drogerie & Kosmetik",
       "note": "Sonn- und Feiertags geöffnet"
-    },
-    {
-      "city": "München",
-      "state": "Bayern",
-      "category": "Tankstelle / REWE To Go",
-      "store_name": "Aral / REWE To Go",
-      "address": "Tegernseer Landstraße 165",
-      "transit": "Tram 15 / 25",
-      "status": "Offen (00:00 - 24:00)",
-      "note": "24/7 Geöffnet"
     },
     {
       "city": "Hamburg",
@@ -113,6 +139,10 @@
       "address": "Hauptbahnhof Wandelhalle",
       "transit": "S-Bahn / U-Bahn Hauptbahnhof",
       "status": "Offen (07:00 - 23:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 10:00 Uhr",
+      "parking": "Parkhaus CentrO",
+      "assortment": "Vollsortiment",
       "note": "Sonn- und Feiertags geöffnet"
     },
     {
@@ -123,6 +153,10 @@
       "address": "Hauptbahnhof Wandelhalle OG",
       "transit": "Hauptbahnhof",
       "status": "Offen (08:00 - 21:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Nach 18:00 Uhr",
+      "parking": "Parkhaus Wandelhalle",
+      "assortment": "Drogerieartikel",
       "note": "Sonn- und Feiertags geöffnet"
     },
     {
@@ -133,6 +167,10 @@
       "address": "Bahnhof Altona (Untergeschoss)",
       "transit": "S-Bahn Bahnhof Altona",
       "status": "Offen (07:00 - 23:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkhaus Bahnhof Altona",
+      "assortment": "Vollsortiment",
       "note": "Täglich geöffnet"
     },
     {
@@ -143,6 +181,10 @@
       "address": "Fernbahnhof Flughafen",
       "transit": "Fernbahnhof / Regio Flughafen",
       "status": "Offen (06:00 - 22:00)",
+      "holiday_status": "Täglich geöffnet",
+      "best_time": "Vor 12:00 Uhr",
+      "parking": "Flughafen Parkhaus",
+      "assortment": "Vollsortiment",
       "note": "Täglich geöffnet"
     },
     {
@@ -153,17 +195,11 @@
       "address": "Hauptbahnhof B-Ebene",
       "transit": "S-Bahn / U-Bahn Hauptbahnhof",
       "status": "Offen (08:00 - 21:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Tiefgarage Hbf",
+      "assortment": "Drogerieartikel",
       "note": "Sonn- und Feiertags geöffnet"
-    },
-    {
-      "city": "Frankfurt am Main",
-      "state": "Hessen",
-      "category": "Tankstelle / REWE To Go",
-      "store_name": "Aral / REWE To Go",
-      "address": "Friedberger Landstraße 295",
-      "transit": "Tram 18",
-      "status": "Offen (00:00 - 24:00)",
-      "note": "24/7 Geöffnet"
     },
     {
       "city": "Köln",
@@ -173,17 +209,11 @@
       "address": "Hauptbahnhof Trankgasse 11",
       "transit": "S-Bahn / U-Bahn Hauptbahnhof",
       "status": "Offen (00:00 - 24:00)",
+      "holiday_status": "24/7 an Feiertagen geöffnet",
+      "best_time": "Jederzeit",
+      "parking": "Tiefgarage Am Dom",
+      "assortment": "Snacks & Lebensmittel",
       "note": "24/7 Geöffnet"
-    },
-    {
-      "city": "Köln",
-      "state": "Nordrhein-Westfalen",
-      "category": "Drogerie",
-      "store_name": "Rossmann",
-      "address": "Hauptbahnhof Passagenebene",
-      "transit": "Hauptbahnhof Köln",
-      "status": "Offen (08:00 - 22:00)",
-      "note": "Sonn- und Feiertags geöffnet"
     },
     {
       "city": "Düsseldorf",
@@ -193,17 +223,11 @@
       "address": "Hauptbahnhof Konrad-Adenauer-Platz",
       "transit": "S-Bahn / U-Bahn Hauptbahnhof",
       "status": "Offen (00:00 - 24:00)",
+      "holiday_status": "24/7 Durchgehend geöffnet",
+      "best_time": "Vor 10:00 Uhr",
+      "parking": "Tiefgarage Hauptbahnhof",
+      "assortment": "Vollsortiment",
       "note": "24/7 Durchgehend geöffnet"
-    },
-    {
-      "city": "Düsseldorf",
-      "state": "Nordrhein-Westfalen",
-      "category": "Drogerie",
-      "store_name": "dm-drogerie markt",
-      "address": "Flughafen Düsseldorf (DUS)",
-      "transit": "SkyTrain Flughafen",
-      "status": "Offen (07:30 - 21:00)",
-      "note": "Täglich geöffnet"
     },
     {
       "city": "Stuttgart",
@@ -213,6 +237,10 @@
       "address": "Hauptbahnhof Arnulf-Klett-Platz",
       "transit": "S-Bahn / U-Bahn Hauptbahnhof",
       "status": "Offen (06:00 - 23:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkhaus Hbf Stuttgart",
+      "assortment": "Frische Lebensmittel",
       "note": "Sonntags geöffnet"
     },
     {
@@ -223,6 +251,10 @@
       "address": "Flughafen Stuttgart Terminal 1",
       "transit": "S2 / S3 Flughafen",
       "status": "Offen (06:00 - 20:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "07:00 - 10:00 Uhr",
+      "parking": "Flughafen Parkhaus",
+      "assortment": "Backwaren & Kaffee",
       "note": "Frische Brötchen am Sonntag"
     },
     {
@@ -233,17 +265,11 @@
       "address": "Hauptbahnhof Promenaden OG 1",
       "transit": "S-Bahn / Tram Hauptbahnhof",
       "status": "Offen (12:00 - 18:00)",
+      "holiday_status": "Sonderöffnung an Feiertagen",
+      "best_time": "12:00 - 14:00 Uhr",
+      "parking": "Promenaden Parkhaus",
+      "assortment": "Discounter Vollsortiment",
       "note": "Sonderöffnung Sonntags"
-    },
-    {
-      "city": "Leipzig",
-      "state": "Sachsen",
-      "category": "Supermarkt",
-      "store_name": "REWE City",
-      "address": "Hauptbahnhof Promenaden UG",
-      "transit": "Hauptbahnhof Leipzig",
-      "status": "Offen (12:00 - 18:00)",
-      "note": "Sonntags geöffnet"
     },
     {
       "city": "Dresden",
@@ -253,16 +279,10 @@
       "address": "Hauptbahnhof Wiener Platz 4",
       "transit": "S-Bahn / Tram Hauptbahnhof",
       "status": "Offen (08:00 - 21:00)",
-      "note": "Sonn- und Feiertags geöffnet"
-    },
-    {
-      "city": "Dresden",
-      "state": "Sachsen",
-      "category": "Supermarkt",
-      "store_name": "Lidl",
-      "address": "Bahnhof Dresden-Neustadt",
-      "transit": "S-Bahn Dresden-Neustadt",
-      "status": "Offen (08:00 - 21:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Tiefgarage Wiener Platz",
+      "assortment": "Vollsortiment",
       "note": "Sonn- und Feiertags geöffnet"
     },
     {
@@ -273,17 +293,11 @@
       "address": "Hauptbahnhof Ernst-August-Platz",
       "transit": "S-Bahn / U-Bahn Hauptbahnhof",
       "status": "Offen (08:00 - 22:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Nach 19:00 Uhr",
+      "parking": "Parkhaus Ernst-August-Galerie",
+      "assortment": "Vollsortiment",
       "note": "Sonntags geöffnet"
-    },
-    {
-      "city": "Hannover",
-      "state": "Niedersachsen",
-      "category": "Drogerie",
-      "store_name": "Rossmann",
-      "address": "Hauptbahnhof Haupthalle",
-      "transit": "Hauptbahnhof Hannover",
-      "status": "Offen (08:00 - 21:00)",
-      "note": "Sonn- und Feiertags geöffnet"
     },
     {
       "city": "Nürnberg",
@@ -293,17 +307,11 @@
       "address": "Hauptbahnhof Bahnhofsplatz 9",
       "transit": "S-Bahn / U1 / U2 / U3 Hauptbahnhof",
       "status": "Offen (08:00 - 21:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkhaus Hauptbahnhof",
+      "assortment": "Vollsortiment",
       "note": "Sonn- und Feiertags geöffnet"
-    },
-    {
-      "city": "Nürnberg",
-      "state": "Bayern",
-      "category": "Apotheke",
-      "store_name": "Bahnhof-Apotheke",
-      "address": "Hauptbahnhof Mittelhalle",
-      "transit": "Hauptbahnhof Nürnberg",
-      "status": "Offen (08:00 - 20:00)",
-      "note": "Sonntagsdienst"
     },
     {
       "city": "Bremen",
@@ -313,6 +321,10 @@
       "address": "Hauptbahnhof Bahnhofsplatz 15",
       "transit": "BSAG Tram / Hauptbahnhof",
       "status": "Offen (08:00 - 22:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "BREPARK Parkhaus Hbf",
+      "assortment": "Vollsortiment",
       "note": "Sonn- und Feiertags geöffnet"
     },
     {
@@ -323,6 +335,10 @@
       "address": "Hauptbahnhof Am Hauptbahnhof 5",
       "transit": "S-Bahn / U-Bahn Hauptbahnhof",
       "status": "Offen (09:00 - 20:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkhaus Hauptbahnhof",
+      "assortment": "Vollsortiment",
       "note": "Sonntags geöffnet"
     },
     {
@@ -333,6 +349,10 @@
       "address": "Hauptbahnhof Königswall 15",
       "transit": "S-Bahn / Stadtbahn Hauptbahnhof",
       "status": "Offen (06:00 - 23:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 10:00 Uhr",
+      "parking": "Parkhaus Hbf Dortmund",
+      "assortment": "Frische Lebensmittel",
       "note": "Sonntags geöffnet"
     },
     {
@@ -343,6 +363,10 @@
       "address": "Hauptbahnhof Am Hauptbahnhof 1",
       "transit": "Stadtbahn Hauptbahnhof Bonn",
       "status": "Offen (06:00 - 22:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkhaus Passage",
+      "assortment": "Snacks & Lebensmittel",
       "note": "Sonntags geöffnet"
     },
     {
@@ -353,6 +377,10 @@
       "address": "Hauptbahnhof Bahnhofscheitel",
       "transit": "RNV Tram / Hauptbahnhof",
       "status": "Offen (08:00 - 22:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkhaus Hauptbahnhof",
+      "assortment": "Vollsortiment",
       "note": "Sonn- und Feiertags geöffnet"
     },
     {
@@ -363,6 +391,10 @@
       "address": "Hauptbahnhof Bahnhofplatz 1a",
       "transit": "KVV Tram / Hauptbahnhof",
       "status": "Offen (06:00 - 22:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkhaus Hbf Karlsruhe",
+      "assortment": "Frische Lebensmittel",
       "note": "Täglich geöffnet"
     },
     {
@@ -373,6 +405,10 @@
       "address": "Hauptbahnhof Berliner Platz 29",
       "transit": "Hauptbahnhof Münster",
       "status": "Offen (06:00 - 23:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkhaus Bahnhofstraße",
+      "assortment": "Snacks & Lebensmittel",
       "note": "Sonntags geöffnet"
     },
     {
@@ -383,6 +419,10 @@
       "address": "Hauptbahnhof Viktoriastraße 1",
       "transit": "VGA Tram / Hauptbahnhof",
       "status": "Offen (06:00 - 22:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkhaus Hbf Augsburg",
+      "assortment": "Lebensmittel & Snacks",
       "note": "Sonn- und Feiertags geöffnet"
     },
     {
@@ -393,6 +433,10 @@
       "address": "Hauptbahnhof Bahnhofsplatz 1",
       "transit": "ESWE Bus / Hauptbahnhof",
       "status": "Offen (06:00 - 22:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkhaus Liliencarré",
+      "assortment": "Snacks & Getränke",
       "note": "Sonntags geöffnet"
     },
     {
@@ -403,6 +447,10 @@
       "address": "Hauptbahnhof Passage",
       "transit": "S7 / Tram Hauptbahnhof",
       "status": "Offen (08:00 - 20:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Bahnhofspassagen Parkhaus",
+      "assortment": "Bio-Lebensmittel",
       "note": "Sonntags geöffnete Bio-Filiale"
     },
     {
@@ -413,6 +461,10 @@
       "address": "Hauptbahnhof Bahnhofspassagen",
       "transit": "S-Bahn Potsdam Hauptbahnhof",
       "status": "Offen (08:00 - 20:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 12:00 Uhr",
+      "parking": "Bahnhofspassagen Parkhaus",
+      "assortment": "Drogerie & Baby",
       "note": "Sonn- und Feiertags geöffnet"
     },
     {
@@ -423,6 +475,10 @@
       "address": "Hauptbahnhof Bahnhofplatz 1",
       "transit": "Tram / Bus Hauptbahnhof Mainz",
       "status": "Offen (06:00 - 22:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkhaus Hbf Mainz",
+      "assortment": "Frische Lebensmittel",
       "note": "Sonntags geöffnet"
     },
     {
@@ -433,6 +489,10 @@
       "address": "Hauptbahnhof Bismarckallee 5",
       "transit": "VAG Tram / Hauptbahnhof",
       "status": "Offen (06:00 - 23:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkhaus Bahnhof Garage",
+      "assortment": "Snacks & Lebensmittel",
       "note": "Täglich geöffnet"
     },
     {
@@ -443,6 +503,10 @@
       "address": "Hauptbahnhof Bahnhofstraße 67",
       "transit": "StadtBahn Hauptbahnhof",
       "status": "Offen (06:00 - 22:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkhaus Hbf Bielefeld",
+      "assortment": "Lebensmittel & Snacks",
       "note": "Sonntags geöffnet"
     },
     {
@@ -453,6 +517,10 @@
       "address": "Hauptbahnhof Sophienblatt 25",
       "transit": "Bus / Hauptbahnhof Kiel",
       "status": "Offen (06:00 - 22:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "CAP Parkhaus",
+      "assortment": "Lebensmittel",
       "note": "Sonntags geöffnet"
     },
     {
@@ -463,6 +531,10 @@
       "address": "Hauptbahnhof Konrad-Adenauer-Platz 1",
       "transit": "S-Bahn / Tram Hauptbahnhof",
       "status": "Offen (06:00 - 22:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkhaus Hbf Rostock",
+      "assortment": "Lebensmittel",
       "note": "Sonntags geöffnet"
     },
     {
@@ -473,6 +545,10 @@
       "address": "Hauptbahnhof Bahnhofsplatz 1",
       "transit": "S-Bahn / Tram Hauptbahnhof",
       "status": "Offen (06:00 - 22:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkhaus Hbf Halle",
+      "assortment": "Lebensmittel",
       "note": "Sonntags geöffnet"
     },
     {
@@ -483,6 +559,10 @@
       "address": "Hauptbahnhof Willy-Brandt-Platz 5",
       "transit": "RNV Tram / Hauptbahnhof",
       "status": "Offen (06:00 - 22:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkhaus Hbf Heidelberg",
+      "assortment": "Snacks & Lebensmittel",
       "note": "Täglich geöffnet"
     },
     {
@@ -493,6 +573,10 @@
       "address": "Hauptbahnhof Bahnhofstraße 18",
       "transit": "RVV Bus / Hauptbahnhof",
       "status": "Offen (06:00 - 22:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkhaus Hbf Regensburg",
+      "assortment": "Frische Lebensmittel",
       "note": "Sonn- und Feiertags geöffnet"
     },
     {
@@ -503,6 +587,10 @@
       "address": "Hauptbahnhof Am Hauptbahnhof 4",
       "transit": "Saarbahn Hauptbahnhof",
       "status": "Offen (06:00 - 22:00)",
+      "holiday_status": "Geöffnet an Feiertagen",
+      "best_time": "Vor 11:00 Uhr",
+      "parking": "Parkhaus Hauptbahnhof",
+      "assortment": "Lebensmittel & Snacks",
       "note": "Sonntags geöffnet"
     }
   ]
